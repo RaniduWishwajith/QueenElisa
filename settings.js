@@ -26,7 +26,7 @@ Owner : 𝗥𝗔𝗡𝗜𝗗𝗨 𝗪𝗜𝗦𝗛𝗪𝗔𝗝𝗜𝗧𝗛
 
 RV- MD ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://i.ibb.co/MsFF8JQ/IMG-20240420-WA0004-1.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://raniduwishwajith:<db_ranidu107d>@myproject.sgyqm.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
